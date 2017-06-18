@@ -10,7 +10,7 @@ pub struct TestSpec {
 }
 
 pub fn parse_command_line() -> TestSpec {
-    let matches = App::new("qadbench")
+    let matches = App::new("qadb")
         .version("0.1")
         .author("Nuchs. <sjbrown@live.co.uk>")
         .about("Quick and dirty benchmarking tool")
