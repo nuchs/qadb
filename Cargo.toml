@@ -1,0 +1,8 @@
+[package]
+name = "qadb"
+version = "0.1.0"
+authors = ["nuchs <sjbrown@live.co.uk>"]
+
+[dependencies]
+clap = "2.24.2"
+time = "0.1.37"
